@@ -12,7 +12,7 @@
 
 * click the 'fork' button
 
-2. **Clone** your version of the repo to your pc
+2. **Clone** your version of the repo to your PC
 
 * Command line: `git clone <repo-name>`
 * Or, chose "clone repository" from the "source Control" tab in VSCode (cntl+shift+g)
